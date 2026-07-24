@@ -1,2 +1,14 @@
 # Auto-Flow
-Software para agencia e locados de veiculos
+Sistema de gestão para concessionárias.
+
+Tecnologias
+
+Java
+Spring Boot
+React
+PostgreSQL
+Docker
+
+Status
+
+🚧 Em desenvolvimento
